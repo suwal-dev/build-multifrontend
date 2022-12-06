@@ -1,0 +1,6 @@
+[submodule "ang12-submodule"]
+	path = ang12-submodule
+	url = https://github.com/suwal-dev/ang12-submodule.git
+[submodule "angular3-app"]
+	path = angular3-app
+	url = https://github.com/manfredsteyer/angular3-app.git
